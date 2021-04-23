@@ -1,0 +1,21 @@
+.main {
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
+h1{
+    border: 3px solid cornflowerblue;
+    font-size: 50px;
+    background-color: coral;
+}
+#help {
+    width: 250px;
+    height: 100px;
+    transform: rotate(0deg);
+    background-color: red;
+    border: 3px solid grey;
+    border-radius: 5px;
+    box-shadow: -4px -4px 10px 2px black;
+    font-size: 45px;
+}
